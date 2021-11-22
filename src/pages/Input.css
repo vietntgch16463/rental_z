@@ -1,0 +1,14 @@
+.main{
+    margin-top: 20px;
+}
+
+
+p.error {
+    padding-left: 16px;
+    padding-top: 0px;
+    margin-top: 4px;
+    font-size: 12px;
+    color: red;
+    font-weight: normal;
+    font-style: italic;
+  }
